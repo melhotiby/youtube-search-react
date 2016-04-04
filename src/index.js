@@ -18,7 +18,7 @@ class App extends Component{
       selectedVideo: null
     };
 
-    this.videoSearch('surboards');
+    this.videoSearch('code');
   }
 
   videoSearch(term){
