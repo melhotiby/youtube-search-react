@@ -2,8 +2,8 @@
 
 ### Installing...
 ```bash
-git clone git@github.com:railsdevmatt/redux-video-search.git
-cd video
+git clone git@github.com:railsdevmatt/youtube-search-react.git
+cd youtube-search-react
 npm install
 npm start
 ```
